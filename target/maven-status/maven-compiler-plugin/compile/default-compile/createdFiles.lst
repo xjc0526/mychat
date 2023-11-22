@@ -1,5 +1,0 @@
-com\xjc\controller\AiController.class
-com\xjc\properties\OpenAi.class
-com\xjc\pojo\Answer.class
-com\xjc\pojo\Choices.class
-com\xjc\ChatbotApplication.class

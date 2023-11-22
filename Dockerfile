@@ -1,4 +1,4 @@
-FROM java:17
+FROM java:8
 MAINTAINER cmumnmn
 ADD demo/chat-bot-1.0.jar chat-bot.jar
 EXPOSE 8080
